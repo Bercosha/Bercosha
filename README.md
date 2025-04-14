@@ -1,5 +1,6 @@
 ## Hi there 👋
-Some information about the additional courses I have taken
+[Some information about the additional courses I have taken] 
+https://www.udemy.com/certificate/UC-5048d340-60b5-436e-bda5-cbdabaaf4689/
 ```
 https://www.udemy.com/certificate/UC-5048d340-60b5-436e-bda5-cbdabaaf4689/
 ```
