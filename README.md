@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Some information about the courses I have taken
+https://www.udemy.com/certificate/UC-5048d340-60b5-436e-bda5-cbdabaaf4689/
 <!--
 **Bercosha/Bercosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
